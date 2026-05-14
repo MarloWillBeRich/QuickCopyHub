@@ -1,0 +1,8 @@
+{
+  "name": "QuickCopy Hub",
+  "description": "A modern personal library for copiable content like texts, links, codes, and AI prompts. Designed like a premium SaaS with a dark mode first approach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
